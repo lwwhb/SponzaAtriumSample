@@ -11,17 +11,32 @@ PrefabInstance:
     - target: {fileID: 2128137737501086388, guid: 5381570e503e443feb0ff8be2fae0892,
         type: 3}
       propertyPath: m_Lightmapping
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2128137737501086388, guid: 5381570e503e443feb0ff8be2fae0892,
         type: 3}
       propertyPath: m_Shadows.m_Type
-      value: 0
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2128137737501086388, guid: 5381570e503e443feb0ff8be2fae0892,
+        type: 3}
+      propertyPath: m_CullingMask.m_Bits
+      value: 53
+      objectReference: {fileID: 0}
+    - target: {fileID: 2128137737501086388, guid: 5381570e503e443feb0ff8be2fae0892,
+        type: 3}
+      propertyPath: m_Shadows.m_Strength
+      value: 0.6
       objectReference: {fileID: 0}
     - target: {fileID: 2128137737501086388, guid: 5381570e503e443feb0ff8be2fae0892,
         type: 3}
       propertyPath: m_UseColorTemperature
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2128137737501086391, guid: 5381570e503e443feb0ff8be2fae0892,
+        type: 3}
+      propertyPath: m_SoftShadowQuality
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2128137737977624996, guid: 5381570e503e443feb0ff8be2fae0892,
         type: 3}
