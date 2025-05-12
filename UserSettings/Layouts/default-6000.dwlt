@@ -355,122 +355,8 @@ MonoBehaviour:
     m_ContainerData: []
     m_OverlaysVisible: 1
   m_WidgetStates:
-    m_Keys:
-    - Frequently Used -> Rendering Debug
-    - Frequently Used -> Rendering Debug -> Map Overlays
-    - Frequently Used -> Rendering Debug ->  -> Map Size
-    - Frequently Used -> Rendering Debug -> HDR
-    - Frequently Used -> Rendering Debug -> MSAA
-    - Frequently Used -> Rendering Debug -> TAA Debug Mode
-    - Frequently Used -> Rendering Debug -> Post-processing
-    - Frequently Used -> Rendering Debug -> Additional Wireframe Modes
-    - Frequently Used -> Rendering Debug -> Overdraw Mode
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming -> Disable Mip Caching
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming -> Debug View
-    - Frequently Used -> Material Filters
-    - Frequently Used -> Material Filters -> Material Override
-    - Frequently Used -> Material Filters -> Vertex Attribute
-    - Frequently Used -> Lighting Debug Modes
-    - Frequently Used -> Lighting Debug Modes -> Lighting Debug Mode
-    - Frequently Used -> Lighting Debug Modes -> HDR Debug Mode
-    - Frequently Used -> Lighting Debug Modes -> Lighting Features
-    - Display Stats -> Frame Stats
-    - Display Stats -> Bottlenecks
-    - Display Stats -> Detailed Stats
-    - Probe Volumes -> Subdivision Visualization -> Display Cells
-    - Probe Volumes -> Subdivision Visualization -> Display Bricks
-    - Probe Volumes -> Subdivision Visualization -> Debug Draw Distance
-    - Probe Volumes -> Subdivision Preview -> Live Updates
-    - Probe Volumes -> Subdivision Preview ->  -> Cell Updates Per Frame
-    - Probe Volumes -> Subdivision Preview ->  -> Update Frequency
-    - Probe Volumes -> Probe Visualization -> Display Probes
-    - Probe Volumes -> Probe Visualization ->  -> Probe Shading Mode
-    - Probe Volumes -> Probe Visualization ->  -> Debug Size
-    - Probe Volumes -> Probe Visualization ->  -> Exposure Compensation
-    - Probe Volumes -> Probe Visualization ->  -> Max Subdivisions Displayed
-    - Probe Volumes -> Probe Visualization ->  -> Min Subdivisions Displayed
-    - Probe Volumes -> Probe Visualization -> Debug Probe Sampling
-    - Probe Volumes -> Probe Visualization ->  -> Debug With Sampling Noise
-    - Probe Volumes -> Probe Visualization -> Virtual Offset Debug
-    - Probe Volumes -> Probe Visualization -> Debug Draw Distance
-    - Probe Volumes -> Probe Adjustment Volumes -> Auto Display Probes
-    - Probe Volumes -> Probe Adjustment Volumes -> Isolate Affected
-    - Probe Volumes -> Streaming -> Freeze Streaming
-    - Probe Volumes -> Streaming -> Display Streaming Score
-    - Probe Volumes -> Streaming -> Maximum cell streaming
-    - Probe Volumes -> Streaming ->  -> Loaded Cells Per Frame
-    - Probe Volumes -> Streaming -> Display Index Fragmentation
-    - Probe Volumes -> Streaming -> Verbose Log
-    - Probe Volumes -> Streaming -> Debug Streaming
-    - Rendering -> Pixel Validation
-    - Rendering -> HDR Output
-    - Rendering -> GPU Resident Drawer Settings
-    - Rendering -> Occlusion Context Stats
-    - Rendering -> Instance Culler Stats
-    - Rendering -> Render Graph
-    - Material -> Material Validation
-    - Volume -> Camera
-    - Volume -> Component
-    - Rendering -> Pixel Validation -> Pixel Validation Mode
-    - Material -> Material Validation -> Material Validation Mode
-    m_Values:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    m_Keys: []
+    m_Values: []
   m_Settings: {fileID: 0}
 --- !u!114 &14
 MonoBehaviour:
@@ -495,7 +381,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 603
+    y: 525
     width: 1050.5
     height: 375
   m_SerializedDataModeController:
@@ -539,7 +425,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 22da0000
     m_LastClickedID: 55842
-    m_ExpandedIDs: 0000000096d8000022da0000ffffff7f
+    m_ExpandedIDs: 00000000b2d80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,7 +454,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000096d80000
+    m_ExpandedIDs: 00000000b2d80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -648,8 +534,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1051.5
-    y: 102
+    x: 1052.5
+    y: 24
     width: 675.5
     height: 876
   m_SerializedDataModeController:
@@ -699,7 +585,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 102
+    y: 24
     width: 254.5
     height: 475
   m_SerializedDataModeController:
@@ -716,7 +602,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 46db0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 22b6f7ffe8c3f7ffa0d1f7ff66dff7ff1eedf7ffe4faf7ff9c08f8ff9a16f8ffea24f8ffcc32f8ff0841f8ff3a4ff8ff4e5df8ff806bf8ff9479f8ffbc87f8ffd2def8ff98ecf8ff50faf8ff1608f9ffce15f9ff9423f9ff4c31f9ff123ff9ffe64cf9ffd274f9ff8a82f9ff5090f9ff089ef9ffceabf9ff86b9f9ff4cc7f9ffb8eff9ffe4fdf9fffe0bfaff361afaff4e28faff7a36faff9444faffc052faffda60faff066ffaff207dfaff4c8bfaff6699faff92a7faffacb5faffd8c3fafff2d1faff1ee0faff38eefaff64fcfaff7e0afbffaa18fbff0227fbff2e35fbff3c43fbfffc50fbffba5efbff7a6cfbff387afbfff887fbffb695fbff76a3fbffb6b1fbff46c0fbffb0cefbffdadcfbff04ebfbff30f9fbff4a07fcff7615fcff9023fcffbc31fcffd63ffcff104efcff345cfcff666afcff8678fcffb286fcffcc94fcfff8a2fcff22b1fcff4ebffcff68cdfcff94dbfcffaee9fcffdaf7fcfff405fdff023afdffc047fdff8055fdff3e63fdfffe70fdffe480fdffbc93fdff7aa1fdff3aaffdfff8bcfdffb8cafdff76d8fdff36e6fdfff4f3fdffb401feff720ffeff321dfefff02afefff64efeff6874feff3a82feff8890feff3a9efeff04acfeffb6b9feff88c7feff3ad5fefffae2feffacf0feff6cfefeff1e0effff461cffff502affff7838ffff8246ffffaa54ffffb462ffffdc70ffff0eadffffeabaffffceeeffff1afbffff1cfbffff
       m_RenameOverlay:
@@ -765,8 +651,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 255.5
-    y: 102
+    x: 256.5
+    y: 24
     width: 794
     height: 475
   m_SerializedDataModeController:
@@ -1331,7 +1217,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.010288581, y: -0.64326984, z: 0.009221734, w: 0.7653315}
     speed: 2
-    m_Value: {x: 0.010303848, y: -0.64221126, z: 0.009207583, w: 0.76640314}
+    m_Value: {x: -0.010288581, y: 0.64326984, z: -0.009221734, w: -0.7653315}
   m_Size:
     m_Target: 0.109728925
     speed: 2
