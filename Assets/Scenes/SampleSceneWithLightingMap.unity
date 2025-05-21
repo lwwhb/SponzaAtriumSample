@@ -121,6 +121,71 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &58750722
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 58750723}
+  - component: {fileID: 58750724}
+  m_Layer: 0
+  m_Name: TimeOfDayTimeline
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &58750723
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 58750722}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!320 &58750724
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 58750722}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 808cc280d93b5408dbab23d876d11dc4, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: 7903744383825172278, guid: 808cc280d93b5408dbab23d876d11dc4, type: 2}
+    value: {fileID: 410087043}
+  - key: {fileID: -8278024738359321537, guid: 808cc280d93b5408dbab23d876d11dc4, type: 2}
+    value: {fileID: 330585549}
+  m_ExposedReferences:
+    m_References:
+    - 8bd78efd7a7314aaba6fe3679ea74f16: {fileID: 711902343}
+    - 801edf8b1e5874c948e9c52e99af66dd: {fileID: 1085728710}
+    - c51587ea517d1453dac24d0cb7a4f40b: {fileID: 711902343}
+    - 178776ef6a6d84833a993b1dc131e6e1: {fileID: 1063239552}
+    - b20f63ed7b3b74c7abc53af7252a23df: {fileID: 267947582}
+    - c3bf03cf2002544beb846f4731dae34a: {fileID: 711902341}
+    - 1b49a526de4f94e43a11802014521eac: {fileID: 527924825}
+    - d36406b3c978a4da2afb8cace934bca4: {fileID: 1085728710}
+    - f95fce8723b4a4c2fbdb017a64de4d6a: {fileID: 1421187989}
+    - 3ee4c0e60c99a48f98b5d521f91bba51: {fileID: 183066773}
+    - e4f7fd4d76eb14b708ebf4e2c18b357b: {fileID: 1421187990}
+    - c78066939191d4b8c88a5b780c359fde: {fileID: 1394972267}
 --- !u!1 &183066772
 GameObject:
   m_ObjectHideFlags: 0
@@ -359,8 +424,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.009896235, y: -0.6881006, z: -0.008730595, w: 0.7254954}
-  m_LocalPosition: {x: -0.11757469, y: 1.4759892, z: -0.42546642}
+  m_LocalRotation: {x: -0.02992692, y: -0.7037085, z: -0.029009622, w: 0.70926523}
+  m_LocalPosition: {x: 10.506844, y: 1.5548612, z: -0.30763552}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -470,6 +535,7 @@ GameObject:
   - component: {fileID: 410087041}
   - component: {fileID: 410087040}
   - component: {fileID: 410087042}
+  - component: {fileID: 410087043}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -586,6 +652,28 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!95 &410087043
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410087039}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 836155b819f5f4aee8a0641dc7078b19, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &527924824
 GameObject:
   m_ObjectHideFlags: 0
@@ -1326,7 +1414,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!320 &1652552296
 PlayableDirector:
   m_ObjectHideFlags: 0
@@ -5600,3 +5688,4 @@ SceneRoots:
   - {fileID: 832575519}
   - {fileID: 148588562587822977}
   - {fileID: 1652552297}
+  - {fileID: 58750723}
