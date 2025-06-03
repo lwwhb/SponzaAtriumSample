@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eac82f19185bc6242b541ddb5313b5f8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Shaders/Transparent/ParticleAlphaBlend.shader
+  uploadId: 710611

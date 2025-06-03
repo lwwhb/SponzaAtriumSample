@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4f296060eb0015944ba9da8d28e3a4ff
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Shaders/FogScatteringRenderer.shader
+  uploadId: 710611

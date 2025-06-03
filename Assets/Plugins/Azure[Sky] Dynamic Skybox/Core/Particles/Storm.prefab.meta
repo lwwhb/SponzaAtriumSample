@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca5bb02f9c7068a4c8b87193338dc560
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Particles/Storm.prefab
+  uploadId: 710611

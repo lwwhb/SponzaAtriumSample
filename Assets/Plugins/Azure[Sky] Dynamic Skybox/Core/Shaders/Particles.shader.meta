@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7434cf7131aa5fd489a4b7b3d47662bb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Shaders/Particles.shader
+  uploadId: 710611

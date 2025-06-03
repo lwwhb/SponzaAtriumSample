@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b74d94cf7fa90845967fc69f9083cff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Particles/Snow.prefab
+  uploadId: 710611

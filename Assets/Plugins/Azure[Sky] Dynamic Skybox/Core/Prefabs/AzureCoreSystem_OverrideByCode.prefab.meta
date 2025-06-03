@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ce922d513e782e84fb9f499c6d5fbcf8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Prefabs/AzureCoreSystem_OverrideByCode.prefab
+  uploadId: 710611

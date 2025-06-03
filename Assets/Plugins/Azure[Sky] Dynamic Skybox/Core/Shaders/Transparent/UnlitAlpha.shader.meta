@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f9e7c467cf16bf441ad5aff96fed6c7c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Shaders/Transparent/UnlitAlpha.shader
+  uploadId: 710611

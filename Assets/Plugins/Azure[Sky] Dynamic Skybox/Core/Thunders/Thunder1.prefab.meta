@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 700134558b1aac045bd6433e3341efc8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Thunders/Thunder1.prefab
+  uploadId: 710611

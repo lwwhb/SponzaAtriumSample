@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0b00f8444cc0be34eac69dbf53a125d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - iconTexture: {fileID: 2800000, guid: f634e59eff012b04e8689f334f531c1c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Editor/Scripts/AzureSkyRendererEditor.cs
+  uploadId: 710611

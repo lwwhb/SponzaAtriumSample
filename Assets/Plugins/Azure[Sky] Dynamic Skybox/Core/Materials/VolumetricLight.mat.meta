@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cac9e28dd278ba644a2cb065fd31009b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Materials/VolumetricLight.mat
+  uploadId: 710611

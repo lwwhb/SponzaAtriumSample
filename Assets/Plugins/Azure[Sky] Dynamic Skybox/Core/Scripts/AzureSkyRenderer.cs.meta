@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 56c21ecf1bcce1a4ca0869c4341bee34
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_sunTransform: {instanceID: 0}
+  - m_moonTransform: {instanceID: 0}
+  - m_starfieldTransform: {instanceID: 0}
+  - m_skyMaterial: {fileID: 2100000, guid: af73272e223d9ad4e962d490f46402c1, type: 2}
+  - m_fogMaterial: {fileID: 2100000, guid: 416fd3a1753297b4da1556f8b7012f8f, type: 2}
+  - m_sunTexture: {fileID: 8900000, guid: 012e06df5e9c47d44b75baac32cc611e, type: 3}
+  - m_moonTexture: {fileID: 8900000, guid: 083d43960bb27de40914a8d6362c2828, type: 3}
+  - m_starfieldTexture: {fileID: 8900000, guid: 0218e6a8f1cdf4946b3c95fcac8c0e4b,
+      type: 3}
+  - m_constellationTexture: {fileID: 8900000, guid: 9a18b63e248021a42b4a94805ef46f23,
+      type: 3}
+  - m_emptySkyShader: {fileID: 4800000, guid: acada81269eab3f41b91df9e83a49566, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Scripts/AzureSkyRenderer.cs
+  uploadId: 710611

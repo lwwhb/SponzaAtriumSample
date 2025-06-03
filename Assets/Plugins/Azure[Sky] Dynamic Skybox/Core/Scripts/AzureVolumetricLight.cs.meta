@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c95ac810ff73f0545841a60e5cdcc331
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_light: {instanceID: 0}
+  - m_lightMesh: {instanceID: 0}
+  - m_lightMaterial: {fileID: 2100000, guid: cac9e28dd278ba644a2cb065fd31009b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Scripts/AzureVolumetricLight.cs
+  uploadId: 710611

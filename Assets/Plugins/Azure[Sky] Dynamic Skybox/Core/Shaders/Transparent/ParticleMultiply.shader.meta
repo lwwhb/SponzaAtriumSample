@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 789c18dfbb0254f4199553c5c75a485f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Shaders/Transparent/ParticleMultiply.shader
+  uploadId: 710611

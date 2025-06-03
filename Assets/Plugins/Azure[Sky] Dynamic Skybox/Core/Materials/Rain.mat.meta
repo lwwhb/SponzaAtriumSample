@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f6e01a5f68585f43ba93cd2c28ce79a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Materials/Rain.mat
+  uploadId: 710611

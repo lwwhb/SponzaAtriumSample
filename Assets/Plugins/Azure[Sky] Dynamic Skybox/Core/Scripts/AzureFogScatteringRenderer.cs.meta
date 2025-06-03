@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fb0854abbdd53ee4b86028a5d2697e59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_fogRendererMaterial: {fileID: 2100000, guid: 7c44f023cdb4c0143a67ffa79e3be149,
+      type: 2}
+  - m_fogComputationMaterial: {fileID: 2100000, guid: 416fd3a1753297b4da1556f8b7012f8f,
+      type: 2}
+  - m_fogScatteringRT: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Scripts/AzureFogScatteringRenderer.cs
+  uploadId: 710611

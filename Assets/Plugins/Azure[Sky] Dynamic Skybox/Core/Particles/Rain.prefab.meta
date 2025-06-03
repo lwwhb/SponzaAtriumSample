@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91fb5b4666fe6ba40b74abd31a8123e1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Particles/Rain.prefab
+  uploadId: 710611

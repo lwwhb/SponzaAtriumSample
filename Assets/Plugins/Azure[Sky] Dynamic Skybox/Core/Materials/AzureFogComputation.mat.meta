@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 416fd3a1753297b4da1556f8b7012f8f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Materials/AzureFogComputation.mat
+  uploadId: 710611

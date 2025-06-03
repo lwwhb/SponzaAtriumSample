@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5da6209b193d6eb49b25c88c861e52fa
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36050
+  packageName: Azure[Sky] Dynamic Skybox
+  packageVersion: 8.0.4
+  assetPath: Assets/Plugins/Azure[Sky] Dynamic Skybox/Core/Shaders/Transparent/AzureFogCore.cginc
+  uploadId: 710611
