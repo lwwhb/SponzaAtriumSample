@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4881f9a2c4d568047b316028d20a8dca, type: 3}
-  m_Name: SampleSceneWithLightingMap Baking Set
+  m_Name: SampleSceneWithSCGI Baking Set
   m_EditorClassIdentifier: Unity.RenderPipelines.Core.Runtime::UnityEngine.Rendering.ProbeVolumeBakingSet
   m_SceneBakeData:
     m_Keys:
-    - 992c0894d60f84473bc4f1b21efc9333
+    - f1cfc1a1e73b54d70a6881ad390deb83
     m_Values:
     - hasProbeVolume: 0
       bakeScene: 1
@@ -41,14 +41,16 @@ MonoBehaviour:
         serializedVersion: 2
         m_Bits: 4294967291
   m_SceneGUIDs:
-  - 992c0894d60f84473bc4f1b21efc9333
+  - f1cfc1a1e73b54d70a6881ad390deb83
   obsoleteScenesToNotBake: []
   m_LightingScenarios:
   - Default
   cellDescs:
     m_Keys: 
     m_Values: []
-  m_SerializedPerSceneCellList: []
+  m_SerializedPerSceneCellList:
+  - sceneGUID: f1cfc1a1e73b54d70a6881ad390deb83
+    cellList: 
   cellSharedDataAsset:
     m_AssetGUID: 
     m_StreamableAssetPath: 
