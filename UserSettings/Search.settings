@@ -74,6 +74,21 @@ providers = {
 		priority = 100
 		defaultAction = null
 	}
+	uiengine = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	uicustom = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	"project-auditor-issues" = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
 }
 objectSelectors = {
 }

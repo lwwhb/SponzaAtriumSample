@@ -14,6 +14,9 @@ EditorUserSettings:
     QuickInstaller_com.unity.services.levelplay_installRecorded:
       value: 2550581500
       flags: 0
+    QuickInstaller_com.unity.services.vivox_installRecorded:
+      value: 2550581500
+      flags: 0
     RecentlyUsedSceneGuid-0:
       value: 5005515057025e5859565b7142775c11424f4b7d7c2c7f327d7b4560b1b8316f
       flags: 0
@@ -24,19 +27,19 @@ EditorUserSettings:
       value: 5550515f56065a0d540b5c7115775e4644154872287e20672b704466b4e4643e
       flags: 0
     RecentlyUsedSceneGuid-3:
-      value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
-      flags: 0
-    RecentlyUsedSceneGuid-4:
       value: 5404020307065e0d5f56087a16770640124f4972787f75637d7c1b6ab6e5353a
       flags: 0
-    RecentlyUsedSceneGuid-5:
+    RecentlyUsedSceneGuid-4:
       value: 5a080605550d500f09585c2448770b4745151b7e2a7924627c2c1b30bbb3676b
       flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
+      flags: 0
     RecentlyUsedSceneGuid-6:
-      value: 050057000604080a08595f2045775b4746164e72747927347e704d37e7e26c6b
+      value: 5b030d560303580208580e7342770643174e4c7d787076637e794a36bbe4326d
       flags: 0
     RecentlyUsedSceneGuid-7:
-      value: 5b030d560303580208580e7342770643174e4c7d787076637e794a36bbe4326d
+      value: 050057000604080a08595f2045775b4746164e72747927347e704d37e7e26c6b
       flags: 0
     lightmappingBakingProfile:
       value: 51

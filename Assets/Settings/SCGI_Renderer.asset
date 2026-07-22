@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &-8393153547265221935
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -39,11 +39,9 @@ MonoBehaviour:
   m_Name: SCGI_Renderer
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalRendererData
   debugShaders:
-    debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7,
-      type: 3}
+    debugReplacementPS: {fileID: 4800000, guid: cf852408f2e174538bcd9b7fda1c5ae7, type: 3}
     hdrDebugViewPS: {fileID: 4800000, guid: 573620ae32aec764abd4d728906d2587, type: 3}
-    probeVolumeSamplingDebugComputeShader: {fileID: 7200000, guid: 53626a513ea68ce47b59dc1299fe3959,
-      type: 3}
+    probeVolumeSamplingDebugComputeShader: {fileID: 7200000, guid: 53626a513ea68ce47b59dc1299fe3959, type: 3}
   probeVolumeResources:
     probeVolumeDebugShader: {fileID: 0}
     probeVolumeFragmentationDebugShader: {fileID: 0}
@@ -55,7 +53,7 @@ MonoBehaviour:
   m_RendererFeatures:
   - {fileID: 5446256434065787719}
   - {fileID: -8393153547265221935}
-  m_RendererFeatureMap: 474b2d0c5ffd944bd15af24d5187858b
+  m_RendererFeatureMap: 474b2d0c5ffd944bd15af24d5187858bl
   xrSystemData: {fileID: 0}
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   m_AssetVersion: 3
@@ -83,10 +81,10 @@ MonoBehaviour:
   m_DepthTextureFormat: 0
   m_AccurateGbufferNormals: 0
   m_IntermediateTextureMode: 0
-  m_OnTileValidation: 0
+  m_TileOnlyMode: 0
 --- !u!114 &5446256434065787719
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -98,26 +96,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.SurfaceCacheGlobalIlluminationRendererFeature
   m_Active: 1
   _parameterSet:
-    MultiBounce: 1
-    EstimationParams:
-      SampleCount: 2
-    PatchFilteringParams:
-      TemporalSmoothing: 0.8
-      SpatialFilterEnabled: 1
-      SpatialFilterSampleCount: 4
-      SpatialFilterRadius: 1
-      TemporalPostFilterEnabled: 1
-    ScreenFilteringParams:
-      LookupSampleCount: 8
-      UpsamplingKernelSize: 5
-      UpsamplingSampleCount: 3
-    VolumeParams:
-      Resolution: 32
-      Size: 128
-      CascadeCount: 4
-      Movement: 1
-    AdvancedParams:
-      DefragCount: 2
+    PrimaryView: 0
+    DebugLogFocusTarget: 0
     DebugEnabled: 0
     DebugViewMode: 0
-    DebugShowSamplePosition: 0
+    DebugShowSamplePosition: 1
