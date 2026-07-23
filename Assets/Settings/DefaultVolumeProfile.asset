@@ -299,31 +299,31 @@ MonoBehaviour:
     m_Value: 1
   sampleCount:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 8
   temporalSmoothing:
     m_OverrideState: 1
-    m_Value: 0.8
+    m_Value: 0.6
   spatialFilterEnabled:
     m_OverrideState: 1
     m_Value: 1
   spatialSampleCount:
     m_OverrideState: 1
-    m_Value: 4
+    m_Value: 8
   spatialRadius:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 2
   temporalPostFilter:
     m_OverrideState: 1
     m_Value: 1
   lookupSampleCount:
     m_OverrideState: 1
-    m_Value: 6
+    m_Value: 8
   upsamplingKernelSize:
     m_OverrideState: 1
-    m_Value: 4
+    m_Value: 7
   upsamplingSampleCount:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 8
   volumeSize:
     m_OverrideState: 1
     m_Value: 128
@@ -607,7 +607,7 @@ MonoBehaviour:
   - {fileID: -4321456051018780219}
   - {fileID: -294479814276313525}
   - {fileID: 7031515796757770372}
-  - {fileID: -1795096272178845186}
+  - {fileID: 3669531333239726995}
 --- !u!114 &1733439265106096345
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -748,6 +748,75 @@ MonoBehaviour:
   dirtIntensity:
     m_OverrideState: 1
     m_Value: 0
+--- !u!114 &3669531333239726995
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac1e685d8f7565142b879339cd471764, type: 3}
+  m_Name: SurfaceCacheGIVolumeOverride
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.SurfaceCacheGIVolumeOverride
+  active: 1
+  enabled:
+    m_OverrideState: 1
+    m_Value: 1
+  multiBounce:
+    m_OverrideState: 1
+    m_Value: 1
+  bouncePatchAllocation:
+    m_OverrideState: 1
+    m_Value: 1
+  sampleCount:
+    m_OverrideState: 1
+    m_Value: 8
+  temporalSmoothing:
+    m_OverrideState: 1
+    m_Value: 0.6
+  spatialFilterEnabled:
+    m_OverrideState: 1
+    m_Value: 1
+  spatialSampleCount:
+    m_OverrideState: 1
+    m_Value: 8
+  spatialRadius:
+    m_OverrideState: 1
+    m_Value: 2
+  temporalPostFilter:
+    m_OverrideState: 1
+    m_Value: 1
+  lookupSampleCount:
+    m_OverrideState: 1
+    m_Value: 8
+  upsamplingKernelSize:
+    m_OverrideState: 1
+    m_Value: 7
+  upsamplingSampleCount:
+    m_OverrideState: 1
+    m_Value: 8
+  volumeSize:
+    m_OverrideState: 1
+    m_Value: 128
+  volumeResolution:
+    m_OverrideState: 1
+    m_Value: 32
+  volumeCascadeCount:
+    m_OverrideState: 1
+    m_Value: 4
+  cascadeMovement:
+    m_OverrideState: 1
+    m_Value: 1
+  defragCount:
+    m_OverrideState: 1
+    m_Value: 2
+  renderingLayerMask:
+    m_OverrideState: 1
+    m_Value:
+      serializedVersion: 0
+      m_Bits: 4294967295
 --- !u!114 &4407388661686180729
 MonoBehaviour:
   m_ObjectHideFlags: 3

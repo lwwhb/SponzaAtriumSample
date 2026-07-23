@@ -51,9 +51,9 @@ MonoBehaviour:
     probeSamplingDebugTexture: {fileID: 0}
     probeVolumeBlendStatesCS: {fileID: 0}
   m_RendererFeatures:
-  - {fileID: 5446256434065787719}
   - {fileID: -8393153547265221935}
-  m_RendererFeatureMap: 474b2d0c5ffd944bd15af24d5187858bl
+  - {fileID: 7453980251731672705}
+  m_RendererFeatureMap: d15af24d5187858b813e3ecb8bdb7167l
   xrSystemData: {fileID: 0}
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   m_AssetVersion: 3
@@ -76,7 +76,7 @@ MonoBehaviour:
   m_ShadowTransparentReceive: 1
   m_RenderingMode: 2
   m_DepthPrimingMode: 0
-  m_CopyDepthMode: 1
+  m_CopyDepthMode: 0
   m_DepthAttachmentFormat: 0
   m_DepthTextureFormat: 0
   m_AccurateGbufferNormals: 0
@@ -101,3 +101,22 @@ MonoBehaviour:
     DebugEnabled: 0
     DebugViewMode: 0
     DebugShowSamplePosition: 1
+--- !u!114 &7453980251731672705
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8406b95d18054752ac25ef8eb7ac2d41, type: 3}
+  m_Name: SurfaceCacheGIRendererFeature
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.SurfaceCacheGIRendererFeature
+  m_Active: 1
+  _parameterSet:
+    PrimaryView: 0
+    DebugLogFocusTarget: 0
+    DebugEnabled: 0
+    DebugViewMode: 0
+    DebugShowSamplePosition: 0

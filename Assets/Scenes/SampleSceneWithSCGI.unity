@@ -855,7 +855,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 11400000, guid: a6560a915ef98420e9faacc1c7438823, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 6d1b472a60f724991ad2960416becf4a, type: 2}
 --- !u!4 &832575519
 Transform:
   m_ObjectHideFlags: 0
@@ -4217,6 +4217,10 @@ PrefabInstance:
     - target: {fileID: 7350646389203955908, guid: 32feeb13ebb03444dbe869888a9c86a0, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7350646390908459989, guid: 32feeb13ebb03444dbe869888a9c86a0, type: 3}
+      propertyPath: m_AdditionalLightsShadowResolutionTier
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7350646390908459990, guid: 32feeb13ebb03444dbe869888a9c86a0, type: 3}
       propertyPath: m_Lightmapping
